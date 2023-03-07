@@ -41,13 +41,15 @@ dependencies:
   awesome_dialog: ^3.0.2
   mobile_scanner: ^3.0.0
   camera: ^0.10.3+1
+  platform_device_id: ^1.0.1
+  share: ^2.0.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 flutter_native_splash:
   color: "#EEEEF7"
-  image: assets/logo.png
+  image: assets/splash.png
   android: true
   ios: true
 flutter_icons:
